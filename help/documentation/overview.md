@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge - översikt
 description: Läs om Adobe Brand Concierge, en AI-baserad lösning för produktupptäckt och engagemang för varumärkesägda digitala resurser.
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2935'
+source-wordcount: '2934'
 ht-degree: 0%
 
 ---
@@ -179,7 +179,7 @@ Brand Concierge ger företag avancerade konversationsbaserade AI-funktioner för
 * Styr kraven på varumärkesröst, ton och efterlevnad.
 * Spåra prestanda med Customer Journey Analytics Dashboard.
 * Möjliggör smidig AI-till-människa-hantering, inklusive schemaläggning av möten.
-* Integrera med Adobe Experience Platform, Commerce och Experience Manager.
+* Integrera med Adobe Experience Platform och Experience Manager.
 
 ## Användningsfall
 
