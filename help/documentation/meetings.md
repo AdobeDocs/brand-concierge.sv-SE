@@ -44,11 +44,11 @@ Anslut till ditt Outlook- eller Google-konto och ange olika inställningar som v
 
    ![Tom tillgänglighetssida för kalender](assets/meetings-availability-1.png)
 
-1. Välj önskade inställningar. I det här exemplet väljer vi _[!UICONTROL Meeting Durations]_på 30 minuter med 15 minuter_[!UICONTROL Buffer Time]_ och _[!UICONTROL Minimum Notice]_på 2 timmar. Vår tillgänglighet är planerad till måndag till fredag 08.00-17.00 PST, med en timmes paus vid lunchtid. Klicka på&#x200B;**[!UICONTROL Save]**när du är klar.
+1. Välj önskade inställningar. I det här exemplet väljer vi _[!UICONTROL Meeting Durations]_&#x200B;på 30 minuter med 15 minuter&#x200B;_[!UICONTROL Buffer Time]_ och _[!UICONTROL Minimum Notice]_&#x200B;på 2 timmar. Vår tillgänglighet är planerad till måndag till fredag 08.00-17.00 PST, med en timmes paus vid lunchtid. Klicka på&#x200B;**[!UICONTROL Save]**&#x200B;när du är klar.
 
 >[!NOTE]
 >
->Om du vill lägga till fler tidsalternativ klickar du bara på plustecknet (![plustecknet ](assets/icon-plus-sign.png)).
+>Om du vill lägga till fler tidsalternativ klickar du bara på plustecknet (![plustecknet &#x200B;](assets/icon-plus-sign.png)).
 
 ![Tillgänglighetssida för kalender med alla fält ifyllda](assets/meetings-availability-2.png)
 
@@ -56,7 +56,7 @@ Anslut till ditt Outlook- eller Google-konto och ange olika inställningar som v
 
 **Endast administratörer**. Se vilka av dina representanter som har anslutit sin kalender.
 
-![Representantsidan ](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![Representantsidan &#x200B;](assets/meetings-representative-1.png){width="800" zoomable="yes"}
 
 ## Aktiviteter {#activities}
 
@@ -70,6 +70,6 @@ Granska bokade möten, vilken information som har samlats in, när mötet var sc
 
 ### Mötesprestanda {#performance}
 
-I _[!UICONTROL Meeting performance]_kan du granska flera olika analyskategorier, bland annat hur många besökare som har begärt möten, hur många som har missats, hur trenden har varit för mötena, vilka är representanterna som deltog i mötena och mycket mer.
+I _[!UICONTROL Meeting performance]_&#x200B;kan du granska flera olika analyskategorier, bland annat hur många besökare som har begärt möten, hur många som har missats, hur trenden har varit för mötena, vilka är representanterna som deltog i mötena och mycket mer.
 
 ![Mötets resultatsida](assets/meetings-performance-1.png){width="800" zoomable="yes"}
