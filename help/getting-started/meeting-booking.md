@@ -1,5 +1,5 @@
 ---
-title: Komma igång med mötesbokning
+title: Boka ett möte
 description: Lär dig hur du bokar ett möte. Se upplevelsen som kund, konfigurera representanter att använda sin kalender och visa rapporter
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: c78402ac62c0a7532eb4dac9ea3677cd04f74c35
+source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ Läs om bokningen av mötesfunktionerna i Adobe Brand Concierge. I den här vide
 * Se hur snabbt och enkelt en överföring till en medarbetare sker
 * Upptäck hur dessa verktyg hanteras och konfigureras
 
->[!VIDEO](https://video.tv.adobe.com/v/3478538?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
