@@ -32,6 +32,6 @@ Lär dig hur du konfigurerar din första Adobe Brand Concierge för att hjälpa 
 * Koppla samman innehållskällor för korrekta svar
 * Anpassa varumärkesuttrycket och testa upplevelsen
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476525/?captions=swe&learn=on&enablevpops)
 
 Mer information finns i [Brand Concierge-hjälpen](../documentation/overview.md).
