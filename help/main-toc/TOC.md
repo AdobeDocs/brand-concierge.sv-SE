@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Utforska Adobe Brand Concierge
-source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
+source-git-commit: 67bab763e56ac07fa1d231f142daa67008cb4f7a
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '32'
 ht-degree: 12%
 
 ---
@@ -17,6 +17,6 @@ ht-degree: 12%
    + [Skapa ett koncierge](../getting-started/create-first-concierge.md)
    + [Boka ett möte](../getting-started/meeting-booking.md)
 + Dokumentation{#documentation}
-   + [Koncierge - hjälp](../documentation/overview.md)
+   + [Hjälp om Brand Concierge](../documentation/overview.md)
    + [Möten](../documentation/meetings.md)
    + [Vanliga frågor](../documentation/brand-concierge-faq.md)
