@@ -68,7 +68,7 @@ Anslut till ditt Outlook- eller Google-konto och ange olika inställningar som v
 
 **Endast administratörer**. Se vilka av dina representanter som har anslutit sin kalender.
 
-![Representantsidan ](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![Representantsidan &#x200B;](assets/meetings-representative-1.png){width="800" zoomable="yes"}
 
 ## Aktiviteter {#activities}
 
