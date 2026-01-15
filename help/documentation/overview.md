@@ -117,7 +117,7 @@ Använd gränssnittet [!UICONTROL Skills Configuration] för att forma koncierga
 
 ### Märkesuttryck {#brand-expression}
 
-Du kan använda gränssnittet _[!UICONTROL Brand expression]_för att anpassa personligheten och stilen för ditt koncierges svar. Du kan komma åt Varumärkesuttryck från konfigurationsfaserna eller via sidofältet för förhandsgranskning för pågående ändringar.
+Du kan använda gränssnittet _[!UICONTROL Brand expression]_&#x200B;för att anpassa personligheten och stilen för ditt koncierges svar. Du kan komma åt Varumärkesuttryck från konfigurationsfaserna eller via sidofältet för förhandsgranskning för pågående ändringar.
 
 Med Varumärkesuttryck kan du använda skjutreglage för att anpassa röstinställningar och toninställningar för ditt varumärke. Du kan välja mellan alternativ som &quot;Egen&quot;, &quot;Professionell&quot; och &quot;Energetisk&quot;. Dessutom kan du konfigurera svarstiderna efter dina önskemål. Du kan ställa in ditt medgivande så att det returnerar korta, medelstora eller långa utdata, beroende på varumärkets vision.
 
@@ -181,7 +181,7 @@ I avsnittet med feedback finns flera viktiga funktioner som du kan använda för
 
 ### Konfigurationer {#configurations}
 
-Fliken _[!UICONTROL Configurations]_är en skrivskyddad sammanfattningsvy som du kan använda för att granska ditt koncierges fullständiga inställningar. Detta speglar startsidan direkt efter att den första konfigurationen har slutförts och ger en sammanfattning av dina uppgifter, kunskapskällor, kunskaper och konfigurerade varumärkesuttryck. Du kan använda den här funktionen som referens innan du förhandsgranskar eller delar ditt koncierge.
+Fliken _[!UICONTROL Configurations]_&#x200B;är en skrivskyddad sammanfattningsvy som du kan använda för att granska ditt koncierges fullständiga inställningar. Detta speglar startsidan direkt efter att den första konfigurationen har slutförts och ger en sammanfattning av dina uppgifter, kunskapskällor, kunskaper och konfigurerade varumärkesuttryck. Du kan använda den här funktionen som referens innan du förhandsgranskar eller delar ditt koncierge.
 
 ## Vad du kan göra med Brand Concierge
 
