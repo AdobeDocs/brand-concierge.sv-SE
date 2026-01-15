@@ -32,6 +32,6 @@ Läs om bokningen av mötesfunktionerna i Adobe Brand Concierge. I den här vide
 * Se hur snabbt och enkelt en överföring till en medarbetare sker
 * Upptäck hur dessa verktyg hanteras och konfigureras
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478538?captions=swe&learn=on&enablevpops)
 
 Mer information finns i [Möten](../documentation/meetings.md).
