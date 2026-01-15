@@ -1,9 +1,9 @@
 ---
-title: Adobe Brand Concierge
-description: Läs mer om Adobe Brand Concierge.
-source-git-commit: 0350baa8ed2e7cd5f8a676c5eb82a165767cbf4f
+title: Dokumentation och självstudier
+description: Lär dig konfigurera och optimera din AI-assistent med guider för konfiguration, kunskapskällor, varumärkesanpassning, möten och analys.
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

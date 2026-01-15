@@ -1,22 +1,18 @@
 ---
-title: Adobe Brand Concierge - översikt
-description: Läs om Adobe Brand Concierge, en AI-baserad lösning för produktupptäckt och engagemang för varumärkesägda digitala resurser.
-source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
+title: Produktdokumentation
+description: Lär dig hur du konfigurerar och använder nyckelfunktioner i Brand Concierge.
+role: User,Admin
+level: Beginner
+source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
 workflow-type: tm+mt
-source-wordcount: '2934'
+source-wordcount: '1739'
 ht-degree: 0%
 
 ---
 
-# Adobe Brand Concierge - översikt
+# Hjälp om Brand Concierge
 
-Brand Concierge är en AI-driven digital assistent för varumärkesägda digitala resurser som kombinerar generativ AI med varumärkets innehåll och kunddata. Använd Brand Concierge för att hitta produkter, jämföra alternativ och få svar genom naturliga konversationer och leverera konversationsupplevelser och personaliserade upplevelser på kundresor och affärskundresor.
-
-## Översikt {#overview}
-
-Brand Concierge är en AI-baserad lösning för produktupptäckt och engagemang för varumärkesägda digitala resurser. Det hjälper varumärken att leverera konversationsbaserade, personaliserade upplevelser på både konsumentresor och affärskundsresor, och vägleder besökarna från utforskande till beslut.
-
-Med Brand Concierge får ni AI-baserade multimodala identifieringsupplevelser som vägleder er till rätt produkter med personaliserade rekommendationer och lättbegripliga produktjämförelser. Konversationer anpassar sig i realtid efter era behov och avsikter, vilket ger ett kontextuellt, kontinuerligt engagemang oavsett vilken kanal ni använder. Och när du behöver mer hjälp gör Brand Concierge det enkelt att smidigt få kontakt med en aktiv person eller, för B2B-scenarier, boka ett möte med en säljare.
+Lär dig hur du konfigurerar och använder nyckelfunktioner i Brand Concierge. Hitta svar på vanliga frågor om konfiguration, dataintegrering, sekretess, anpassning, prestandamätning och tekniska krav.
 
 ## Viktiga funktioner {#key-features}
 
@@ -30,28 +26,41 @@ Brand Concierge har ett antal viktiga funktioner:
 * **Feedback-system:** Använd ett feedbacksystem som gör att användare kan ange upp- eller nedgraderingar av tummar, tillsammans med detaljerade feedbackformulär som omfattar svarstäckning, ton, kvalitet och funktioner.
 * **Kontrollpanel för analys:** Dra nytta av en kontrollpanel för analys som drivs av Customer Journey Analytics för mätvärden som konversationer, känslor och engagemang.
 
-## Komma igång {#getting-started}
+## Kom igång {#getting-started}
 
-Du kommer åt Brand Concierge från Adobe Experience Cloud kontrollpanel. Kom igång genom att följa den första genomgången på Brand Concierge hemsida. Ange namnet på ditt konferenssamtal, lägg till dina kunskapskällor, konfigurera kunskaperna som du vill använda och ange ditt varumärkesuttryck.
+Du kommer åt Brand Concierge från Adobe Experience Cloud kontrollpanel. På en hög nivå utför du följande uppgifter på genomgången av startsidan:
 
-## Startsida {#homepage}
+1. [Skapa ett koncierge](#homepage)
+1. [Lägg till kunskapskällor](#knowledge-sources)
+1. [Konfigurera färdigheter](#skills-configuration)
+1. [Ange ditt varumärkesuttryck](#brand-expression).
 
-Brand Concierge hemsida är utformad för att vara enkel att använda och effektiv och vägleder dig genom viktiga installationssteg med en dedikerad förstagångsgenomgång. En framträdande banderoll beskriver viktiga åtgärder som att specificera konferensens namn och syfte, lägga till kunskapskällor, konfigurera relevanta färdigheter och definiera ert varumärkesuttryck. Medan du går visar en visuell spårare tydligt vilka installationskomponenter som har slutförts och alla återstående uppgifter markeras. För att ytterligare stödja dina satsningar har hemsidan ett inspirerande avsnitt med videor och demonstrationer av sammankopplingsfunktioner, som produktrekommendationer. Du har också snabb tillgång till Experience League-dokumentation för mer ingående tekniska insikter. När konfigurationen är klar ger en konfigurationssammanfattning en heltäckande bild av dina detaljer, som ordnas med flikar för att underlätta pågående justeringar och förbättringar.
+Om du vill se en självstudiekurs (video) kan du gå till [Skapa din första konferens](../getting-started/create-first-concierge.md)
+
+I följande avsnitt beskrivs varje uppgift och gränssnittsalternativen i detalj.
+
+## Skapa ett koncierge {#homepage}
+
+Brand Concierge hemsida är utformad för att vara enkel att använda och effektiv och vägleder dig genom viktiga installationssteg med en dedikerad förstagångsgenomgång. En framträdande banderoll beskriver viktiga åtgärder som att specificera konferensens namn och syfte, lägga till kunskapskällor, konfigurera relevanta färdigheter och definiera ert varumärkesuttryck.
+
+Medan du går visar en visuell spårare tydligt vilka installationskomponenter som har slutförts och alla återstående uppgifter markeras. För att ytterligare stödja dina satsningar har hemsidan ett inspirerande avsnitt med videor och demonstrationer av sammankopplingsfunktioner, som produktrekommendationer. Du har också snabb tillgång till Experience League-dokumentation för mer ingående tekniska insikter.
+
+När konfigurationen är klar ger en konfigurationssammanfattning en heltäckande bild av dina detaljer, som ordnas med flikar för att underlätta pågående justeringar och förbättringar.
 
 **Nyckelelement**
 
 * **Första gången användaren går igenom**: En översta banderoll med steg för att konfigurera ditt koncierge (namn/syfte, kunskapskällor, kunskaper, varumärket).
 * **Progress Tracker**: Visuella indikatorer för slutförda kontra väntande installationskomponenter.
-* **Inspirationsavsnitt**: Videor och demonstrationer som visar koncierge-funktioner (t.ex. produktrekommendationer).
+* **Inspirationsavsnittet**: Videor och demonstrationer som visar sammankopplingsfunktioner (t.ex. produktrekommendationer).
 * **Dokumentationslänkar**: Snabb åtkomst till Experience League-resurser för djupare tekniska insikter.
 * **Konfigurationssammanfattning**: Vy efter konfiguration med alla detaljer, med flikar för förfining.
 
-**Arbetsflöde**
+**Så här skapar du en konversation**
 
-1. Om du vill komma igång med startsidan går du till genomsökningsbanderollen och väljer **[!UICONTROL Get started]**.
-2. Ange sedan ett namn för ditt möte och definiera dess syfte (till exempel&quot;Rekommendera personaliserade produkter&quot;).
-3. Följ de guidade stegen för att fortsätta.
-4. När konfigurationen är klar går du tillbaka till startsidan för att övervaka eller redigera ditt medlemskap.
+1. Navigera till genomsökningsbanderollen och klicka sedan på **[!UICONTROL Get started]**.
+1. Ange ett namn för ditt concierge och definiera dess syfte (till exempel _Rekommendera personaliserade produkter_).
+1. Följ de guidade stegen för att fortsätta.
+1. När konfigurationen är klar går du tillbaka till startsidan för att övervaka eller redigera ditt medlemskap.
 
 >[!TIP]
 >
@@ -59,47 +68,62 @@ Brand Concierge hemsida är utformad för att vara enkel att använda och effekt
 
 ### Kunskapskällor {#knowledge-sources}
 
-Du kan använda kunskapskällor för att hantera de datakällor som ligger till grund för konferensens svar. Du kan komma åt kunskapskällor när du har överfört dina initiala filer. Kunskapskällor har ett antal nyckelelement att tänka på, till exempel:
+[!UICONTROL Knowledge Sources] hjälper dig att hantera de datakällor som ligger till grund för konferensens svar. Du kan komma åt [!UICONTROL Knowledge Sources] när du har överfört dina initiala filer. [!UICONTROL Knowledge Sources] har ett antal nyckelelement att tänka på, till exempel:
 
-* **Source-lista:** I Source-listan visas alla överförda objekt, t.ex. CSV-filer med webbplatslänkar, och deras status anges som antingen bearbetade eller väntande.
-* **Överföringsgränssnitt:** Med överföringsgränssnittet kan du dra och släppa eller bläddra efter CSV-filer som innehåller URL:er, som systemet crawlar för att extrahera kunskap.
-* **Anslutningsalternativ:** Med anslutningsalternativen kan du länka specifika kunskapskällor till relevanta kunskaper för mer målinriktad användning.
+* **Source-lista:** Visar alla överförda objekt, t.ex. CSV-filer med webbplatslänkar, och anger att de har statusen antingen bearbetad eller väntande.
+* **Överföringsgränssnitt:** Gör att du kan dra och släppa eller bläddra efter CSV-filer som innehåller URL:er, som systemet crawlar för att extrahera kunskap.
+* **Anslutningsalternativ:** Gör det möjligt att länka specifika kunskapskällor till relevanta kunskaper för mer målinriktad användning.
 
-**Arbetsflöde**
+**Lägga till en kunskapskälla**
 
-1. Välj **[!UICONTROL Add Knowledge Source]** på startsidan.
-2. Ladda sedan upp en CSV-fil och se till att den innehåller en kolumn för webbplatsens URL:er.
-3. Bearbetningen kan ta en stund. Det här steget löser sig ganska snabbt när status uppdateras i realtid.
-4. Återgå till startsidan när du har lagt till den. Nu ska du se den nya källan som lagts till på hemsidan.
-5. Använd hemsidan för att redigera eller ta bort dina kunskapskällor efter behov. Du kan även koppla en kunskapskälla om det sker några ändringar.
+1. Klicka på **[!UICONTROL Knowledge Sources]** på startsidan.
 
-### Kompetenskonfiguration {#skills-configuration}
+1. Namnge kunskapskällan.
 
-Använd gränssnittet Kunskapskonfiguration för att utforma koncierges kunskaper genom att konfigurera kunskaper som **Produktrådgivning**. Svara på enkäten för att ange indata som Adobe konsulter senare kommer att använda för snabb konstruktion. Kompetenskonfiguration har ett antal nyckelelement att tänka på, som:
+1. Klicka på **[!UICONTROL Add]** om du vill överföra en CSV-fil.
+
+   Kontrollera att den innehåller en kolumn för webbplatsens URL:er.
+
+1. Bearbetningen kan ta en stund.
+
+   Det här steget löser sig ganska snabbt när status uppdateras i realtid.
+
+1. Återgå till startsidan när du har lagt till den.
+
+   Nu ska du se den nya källan som lagts till på hemsidan.
+
+   Använd hemsidan för att redigera eller ta bort dina kunskapskällor efter behov. Du kan även koppla en kunskapskälla om det sker några ändringar.
+
+### Konfigurera färdigheter {#skills-configuration}
+
+Använd gränssnittet [!UICONTROL Skills Configuration] för att forma konciergans expertis genom att konfigurera kunskaper som **produktrådgivning**. Svara på enkäten för att ange indata som Adobe konsulter senare kommer att använda för snabb konstruktion. Kompetenskonfiguration har ett antal nyckelelement att tänka på, som:
 
 * **Kompetensväljare:** Du kan välja bland tillgängliga kunskaper, t.ex. produktrådgivning, för att göra produktrekommendationer.
 * **Frågeformulär:** Du kommer att slutföra en serie uppmaningar om att tillhandahålla produktkunskap, affärsregler, nyckelord som ska undvikas och källanslutningar.
 * **Förhandsgranska:** Du kan välja att göra live-förbättringar och se hur dina justeringar påverkar svaren, med länkar till förhandsgranskningssidan.
 * **Aktivera mötesbokning:** Du kan göra det möjligt för besökare att schemalägga möten direkt med företagsrepresentanter.
 
-**Arbetsflöde**
+**Konfigurera kunskaper**
 
-1. Navigera till förloppsspåraren på startsidan och välj **[!UICONTROL Configure Skills]**.
-2. Välj en kompetens (t.ex. produktrådgivning).
-3. Svara på de konfigurationsfrågor som följer. (Exempel på frågor är:&quot;What should the concierge know about products?&quot;,&quot;What business rules should be followed?&quot;,&quot;which keywords should be avoid&quot;)
-4. Koppla samman relevanta kunskapskällor.
-5. Aktivera ytterligare funktioner (mötesbokning).
-6. Skicka för behandling.
+1. Navigera till förloppsspåraren på hemsidan och klicka sedan på **[!UICONTROL Configure skills]**.
+1. Välj en kompetens (t.ex. produktrådgivning).
+1. Svara på de konfigurationsfrågor som följer.
 
-### Varumärkesuttryck {#brand-expression}
+   Frågeexempel inkluderar: _Vad bör koncierge känna till om produkter?_, _Vilka affärsregler ska följas?_, _Vilka nyckelord ska undvikas?_
 
-Du kan använda gränssnittet Varumärkesuttryck för att anpassa personligheten och stilen på ditt koncierges svar. Du kan komma åt Varumärkesuttryck från konfigurationsfaserna eller via sidofältet för förhandsgranskning för pågående ändringar.
+1. Anslut relevanta [kunskapskällor](#knowledge-sources).
+1. Aktivera ytterligare funktioner (mötesbokning).
+1. Skicka för behandling.
+
+### Märkesuttryck {#brand-expression}
+
+Du kan använda gränssnittet _[!UICONTROL Brand expression]_för att anpassa personligheten och stilen för ditt koncierges svar. Du kan komma åt Varumärkesuttryck från konfigurationsfaserna eller via sidofältet för förhandsgranskning för pågående ändringar.
 
 Med Varumärkesuttryck kan du använda skjutreglage för att anpassa röstinställningar och toninställningar för ditt varumärke. Du kan välja mellan alternativ som &quot;Egen&quot;, &quot;Professionell&quot; och &quot;Energetisk&quot;. Dessutom kan du konfigurera svarstiderna efter dina önskemål. Du kan ställa in ditt medgivande så att det returnerar korta, medelstora eller långa utdata, beroende på varumärkets vision.
 
-**Arbetsflöde**
+**Anpassa varumärkesuttrycket**
 
-1. Välj **[!UICONTROL Brand Expression]** på startsidan.
+1. Klicka på **[!UICONTROL Customize Brand Expression]** på startsidan.
 2. Konfigurera därefter varumärkets röst, ton och önskad svarslängd.
 3. Välj **[!UICONTROL Save]** för att se till att ändringarna återspeglas i framtida svar.
 
@@ -113,26 +137,26 @@ Testa ditt konferenssamtal innan du startar för kunderna med hjälp av förhand
 
 Använd förhandsgranskningsläget för att simulera konversationer och samtidigt göra justeringar i realtid.
 
-1. Efter konfigurationen går du tillbaka till startsidan och väljer **[!UICONTROL Preview]**.
-2. Använd chattgränssnittet för att ange din fråga (till exempel&quot;Rekommendera en bärbar dator under 1 000 dollar).
-3. Granska concierge-svar.
-4. Använd den högra panelen för att justera varumärkesuttrycksinställningarna.
-5. Välj **[!UICONTROL Share]** om du vill generera en länk för teamfeedback.
+1. Efter konfigurationen går du tillbaka till startsidan och klickar på **[!UICONTROL Preview]**.
+1. Använd chattgränssnittet för att ange din fråga (till exempel _Rekommendera en bärbar dator under 1 000 USD_).
+1. Granska concierge-svar.
+1. Använd den högra panelen för att justera varumärkesuttrycksinställningarna.
+1. Klicka på **[!UICONTROL Share]** om du vill generera en länk för teamfeedback.
 
 >[!TAB Testvyn]
 
 Använd testvyn för att samla in strukturerad feedback om prestanda och simulera slutanvändarupplevelsen.
 
-1. Välj **[!UICONTROL Tester View]** i förhandsgranskningen.
-2. Använd testvyn för att simulera slutanvändarkonversationer.
-3. Använd reglaget uppåt och nedåt för att betygsätta varje svar du får.
-4. Fyll i feedbackformulär för att dra ner tummen:
+1. Klicka på **[!UICONTROL Tester View]** i förhandsgranskningen.
+1. Använd testvyn för att simulera slutanvändarkonversationer.
+1. Använd reglaget uppåt och nedåt för att betygsätta varje svar du får.
+1. Fyll i feedbackformulär för att dra ner tummen:
    **Svarstäckning:** Åtgärdade den avsikten?
    **Varumärkeston:** Justerad med personlighet?
    **Svarskvalitet:** Vill du rensa och strukturera?
    **Svarsfunktioner:** Användbara uppföljningar?
-5. Lägg till kommentarer och specifika kommentarer.
-6. Skicka feedback för granskning på kontrollpanelen.
+1. Lägg till kommentarer och specifika kommentarer.
+1. Skicka feedback för granskning på kontrollpanelen.
 
 >[!ENDTABS]
 
@@ -147,19 +171,21 @@ I avsnittet med feedback finns flera viktiga funktioner som du kan använda för
 * **Feedbacklista:** Visar en tabell med feedbacksessioner. Du kan klicka på enskilda rader för att visa hela chattutskriften för varje session.
 * **Panelen Feedback:** Visar klassificeringskort på den högra sidan av gränssnittet. Genom att hovra över eller klicka på dessa kort markeras de relevanta delarna av chattutskriften för enkel referens.
 
-**Arbetsflöde**
+**Om du vill skicka feedback**
 
 1. Gå till Brand Concierge hemsida och välj **[!UICONTROL Feedback]**.
-2. Använd den angivna ögonblicksbilden för att visa information om trender på hög nivå.
-3. Om du vill få åtkomst till en djupdykning som drivs av Customer Journey Analytics väljer du **[!UICONTROL View Report]**.
-4. Du kan även kontrollera panelen för att få ytterligare kopplad feedback.
-5. När du är klar kan du exportera insikterna och använda dem senare och förfina arbetsflödet.
+1. Använd den angivna ögonblicksbilden för att visa information om trender på hög nivå.
+1. Om du vill få åtkomst till en djupdykning som drivs av Customer Journey Analytics väljer du **[!UICONTROL View Report]**.
+1. Du kan även kontrollera panelen för att få ytterligare kopplad feedback.
+1. När du är klar kan du exportera insikterna och använda dem senare och förfina arbetsflödet.
 
 ### Konfigurationer {#configurations}
 
-Fliken *[!UICONTROL Configurations]* är en skrivskyddad sammanfattningsvy som du kan använda för att granska ditt koncierges fullständiga inställningar. Detta speglar startsidan direkt efter att den första konfigurationen har slutförts och ger en sammanfattning av dina uppgifter, kunskapskällor, kunskaper och konfigurerade varumärkesuttryck. Du kan använda den här funktionen som referens innan du förhandsgranskar eller delar ditt koncierge.
+Fliken _[!UICONTROL Configurations]_är en skrivskyddad sammanfattningsvy som du kan använda för att granska ditt koncierges fullständiga inställningar. Detta speglar startsidan direkt efter att den första konfigurationen har slutförts och ger en sammanfattning av dina uppgifter, kunskapskällor, kunskaper och konfigurerade varumärkesuttryck. Du kan använda den här funktionen som referens innan du förhandsgranskar eller delar ditt koncierge.
 
 ## Vad du kan göra med Brand Concierge
+
+Läs mer om kundfunktioner, affärsmöjligheter och användningsexempel för Brand Concierge.
 
 ### Kundfunktioner
 
@@ -193,147 +219,3 @@ Brand Concierge har stöd för användning både inom B2C och B2B i flera bransc
 | Resor och turism | Kunderna får skräddarsydda rekommendationer, hjälp med planeringsvägar, support under hela bokningsprocessen samt svar på resepolicyfrågor. |
 | Finansiella tjänster | Brand Concierge erbjuder produktjämförelser för att hjälpa kunderna att välja rätt finansiella lösningar, tillhandahålla kontoinformation, tillhandahålla efterlevnadsstyrd vägledning och möjliggöra schemaläggning med finansiella rådgivare. |
 
-## Vanliga frågor och svar
-
-Här hittar du svar på vanliga frågor om Brand Concierge.
-
-### Allmänt
-
-#### Hur skiljer sig Brand Concierge från chattbotar?
-
-Brand Concierge skiljer sig från traditionella chattbottar genom att utnyttja generativ AI som är specifikt utbildad i organisationens innehåll och kunddata, i stället för att förlita sig på skriptade svar eller generiska webbresultat. Detta gör att assistenten kan ge personaliserade svar som bygger på kundbeteende, integrera med era Adobe-verktyg och -data, kontinuerligt lära sig av varje interaktion och tolka kundens avsikter på ett korrekt sätt utöver grundläggande nyckelordsmatchning.
-
-#### Kan jag använda Brand Concierge för både B2C och B2B?
-
-Ja. Användningsexempel:
-
-* **B2C:** Produktupptäckt, shoppinghjälp, kundsupport, personaliserade rekommendationer.
-* **B2B:** Guidade utvärderingar, funktionsjämförelser, schemaläggning av möten, routning av säljare, rådgivande bokning.
-
-#### Vilka branscher kan använda Brand Concierge?
-
-Brand Concierge kan användas i många olika branscher, bland annat detaljhandel och e-handel, resor och turism, finansiella tjänster, hälso- och sjukvård (med efterlevnadskontroller), media och underhållning samt teknik och programvara. I grund och botten kan alla branscher som hjälper kunderna att hitta information och fatta beslut dra nytta av att implementera Brand Concierge.
-
-### Data och integritet
-
-#### Är kunddata säkra?
-
-Ja. Brand Concierge ser till att kunddata är säkra genom att följa GDPR- och CCPA-regler, bearbeta data i Adobe säkra infrastruktur, ge dig kontroll över dataanvändningen och skydda konversationer genom kryptering och granskningsloggning.
-
-Alla konversationer sker på dina egenskaper, inte på servrar från tredje part.
-
-#### Vilka datakällor kan jag ansluta?
-
-Du kan ansluta följande typer av datakällor till Brand Concierge:
-
-| Source-datatyp | Tillgängliga källor/information |
-|------------------|---------------------------|
-| **Produkt och innehåll** | Produktkataloger<br>Inventeringssystem<br>Knowledge Base och dokumentation<br>Webbplatsinnehåll via CSV URL-överföring<br>Adobe Experience Manager-innehåll<br>Adobe Commerce-data |
-| **Kunddata** | Adobe Experience Platform-profiler<br>Adobe Analytics beteendedata<br>Första parts kundattribut<br>Tredjeparts-API:er (konfigurerade) |
-| **CSV-filformat** | En kolumn som innehåller webb-URL:er<br>Brand Concierge crawlar URL:er och extraherar innehåll automatiskt<br>Bearbetning av statusuppdateringar i realtid<br>Flera CSV-filer kan överföras för olika innehållsområden |
-
-Alla data följer era styrningsregler.
-
-#### Kan kunderna välja bort personalisering?
-
-Ja. Kunder som avanmäler sig får användbara svar utan beteendeanpassning. Du konfigurerar hantering av avanmälan så att den matchar dina sekretesspolicyer.
-
-### Konfiguration och kontroll
-
-#### Hur kontrollerar jag varumärkesuttrycket?
-
-Du kan styra varumärkesuttrycket direkt i användargränssnittet genom att konfigurera element som ton (från formell till tillfällig), språk (från enkel till teknisk) och personlighet (till exempel användbar, entusiastisk eller professionell). Dessutom kan ni definiera svarsmönster med hjälp av mallar och exempel, och upprätta skyddsmekanismer för att tillämpa regler och gränser för regelefterlevnad. Börja med Adobe referensfrågor och skräddarsy dessa inställningar så att de speglar ert varumärkes unika identitet.
-
-#### Vad händer när Brand Concierge inte kan besvara en fråga?
-
-Du kan konfigurera reservbeteenden för att avgöra hur Brand Concierge svarar när det inte kan besvara en fråga. Det kan vara bra att visa meddelandet&quot;Jag kan inte hjälpa till med det&quot;, föreslå alternativa frågor, länka till självbetjäningsresurser eller automatiskt eskalera frågan till en handläggare. Välj vad som fungerar bäst för ert varumärke.
-
-#### Kan jag anpassa den visuella designen?
-
-Ja. Anpassa alla visuella element, inklusive:
-
-* Färger och varumärken
-* Teckensnitt och typografi
-* Knappformat
-* Widgetplacering
-* Kortlayouter
-* Svarsformatering
-
-SDK:er innehåller standardkomponenter och fullständiga anpassningsalternativ.
-
-#### Hur lång tid tar installationen?
-
-Installationens längd kan bero på vilken typ av implementering du har. En grundläggande implementering som innehåller en befintlig produktkatalog, standardinnehåll för vanliga frågor och svar och standardinställningar kan ta ca 3-5 dagar att konfigurera. Å andra sidan kan avancerade implementeringar med anpassade integreringar, omfattande personalisering, komplexa arbetsflöden och anpassade efterlevnadsregler ta cirka 2-4 veckor att slutföra.
-
-#### Hur fungerar förhandsgranskning och testning?
-
-Brand Concierge innehåller inbyggda testverktyg:
-
-| Testverktyg | Funktioner |
-|--------------|----------|
-| **Förhandsgranskningsläge** | Simulera kundkonversationer<br>Justera inställningar i realtid<br>Se ändringarna direkt<br>Dela förhandsgranskningslänkar med teamet |
-| **Testvy** | Klassificera svar med tummen upp/ned<br>Ge strukturerad feedback i 4 kategorier<br>Lägg till detaljerade kommentarer<br>Håll ordning på feedback i instrumentpanelen |
-
-Alla tester utförs innan ni distribuerar till kunderna.
-
-#### Kan kunderna boka möten med vårt team?
-
-Ja, kunderna kan schemalägga möten med ditt team med mötesbokningskunskaper. Aktivera funktionen genom att aktivera kunskapen i Kunskapskonfiguration, definiera aktiveringsmetoder (som&quot;tala med försäljning&quot;), ansluta kalendern eller schemaläggningssystemet och ange din tillgänglighet och mötestyper. När konfigurationen är klar kan kunderna begära möten under konversationer, och Brand Concierge underlättar schemaläggningsprocessen utan att de behöver lämna chatten.
-
-#### Vem hanterar promptkonstruktionen?
-
-Adobe konsulter hanterar snabbkonstruktion i bakgrunden:
-
-1. Du besvarar konfigurationsfrågor på sidan Kompetens.
-2. Tillhandahåll produktkunskap, affärsregler och undvik nyckelord.
-3. Skicka in dina indata.
-4. Adobe konsulter använder dina svar för att ta fram optimerade instruktioner.
-5. Ändringarna återspeglas automatiskt i ditt concierge.
-
-På så sätt kan du vara säker på att ditt varumärke använder AI-promptmönster enligt god praxis, samtidigt som du behåller dina specifika varumärkeskrav.
-
-### Prestanda och analys
-
-#### Hur mäter jag framgång?
-
-Du kan mäta framgång med Brand Concierge Dashboard. Använd kontrollpanelen för att spåra mätvärden som:
-
-| Mått | Vad det spårar |
-|--------|----------------|
-| **Engagemang** | Konversationsvolym, sessionslängd |
-| **Nöjd** | Känslighetspoäng, feedback-betyg |
-| **Konvertering** | Inköpsbelopp för assisterade jämfört med icke-assisterade |
-| **Ämnen** | De vanligaste frågorna |
-| **Leverans** | Eskaleringsgrad och orsaker |
-| **Prestanda** | Svarsnoggrannhet, lösningstid |
-
-Ni kan också integrera med Adobe Analytics för djupare analyser.
-
-#### Vad ska jag göra om känslan faller?
-
-Om du märker en minskning av känslan bör du undersöka de underliggande orsakerna genom att granska nyligen misslyckade frågor, kontrollera om det finns innehållsluckor, analysera negativ feedback, testa lämpliga toner och verifiera tekniska problem. När rotorsakerna har identifierats kan du snabbt åtgärda dem och fortsätta att övervaka dem för förbättring.
-
-### Integrering och teknik
-
-#### Behöver jag andra Adobe-produkter?
-
-Nej, men de förbättrar prestandan:
-
-| Integrationsalternativ | Funktioner |
-|-------------------|--------------|
-| **Fristående** | Fungerar med produktkatalogen och -innehållet |
-| **Med Adobe Experience Platform** | Enhetliga kundprofiler<br>Avancerad personalisering<br>Konsekvens över flera kanaler |
-| **Med Adobe Commerce** | Realtidslager<br>Orderhistorik<br>Kundintegrering |
-| **Med Adobe Experience Manager** | Innehållshantering<br>Dynamiska uppdateringar<br>Stöd för flera webbplatser |
-
-#### Vad händer om min webbplats inte finns på Adobe?
-
-Brand Concierge fungerar med alla plattformar. JavaScript SDK kan integreras med alla webbplatser och SDK:er för mobiler fungerar med alla appar.
-
-#### Hur fungerar överlämningen?
-
-När agentöverföringen aktiveras överför Brand Concierge hela konversationshistoriken, kundprofilen och ID:t, identifierad avsikt, information om produkter som diskuterats och eventuella lösningsförsök till agenten. Detta garanterar att agenterna har ett fullständigt sammanhang och kan fortsätta konversationen utan att kunderna behöver upprepa informationen.
-
-#### Kan jag stödja flera språk?
-
-Ja. Konfigurera språkstöd per assistent baserat på kundbas. Brand Concierge identifierar kundens språk och svarar därefter.
