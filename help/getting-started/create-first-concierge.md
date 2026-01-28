@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Skapa din första konferens
 
-Lär dig hur du konfigurerar din första Adobe Brand Concierge för att hjälpa kunderna att hitta rätt produkter, tjänster eller upplevelser från Adobe. Ni lär er att namnge ert varumärke, lägga till användbart innehåll, välja hur det svarar och matcha rösten med ert varumärke. När den är klar kan du testa den och se hur den fungerar på både dator och mobil.
+Lär dig hur du konfigurerar din första Adobe Brand Concierge för att hjälpa kunderna med en personaliserad, konversationskunskap på din webbplats. Ni lär er att namnge ert varumärke, lägga till användbart innehåll, välja hur det svarar och matcha rösten med ert varumärke. När den är klar kan du testa den och se hur den fungerar på både dator och mobil.
 
 ## Vem är den här videon till?
 
@@ -32,6 +32,6 @@ Lär dig hur du konfigurerar din första Adobe Brand Concierge för att hjälpa 
 * Koppla samman innehållskällor för korrekta svar
 * Anpassa varumärkesuttrycket och testa upplevelsen
 
->[!VIDEO](https://video.tv.adobe.com/v/3476525/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
 Mer information finns i [Brand Concierge-hjälpen](../documentation/overview.md).
