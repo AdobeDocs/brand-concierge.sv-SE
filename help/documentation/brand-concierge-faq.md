@@ -3,18 +3,22 @@ title: Vanliga frågor
 description: Få svar på vanliga frågor om Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 0f010472e3f49c5d84e9875a33215d56e020bef8
+source-git-commit: 06911f38d17882cdae8441d5cbdbcdf786d9e6bb
 workflow-type: tm+mt
-source-wordcount: '1091'
-ht-degree: 1%
+source-wordcount: '1537'
+ht-degree: 0%
 
 ---
 
-# Vanliga frågor och svar
+# Frågor och svar
 
 Här hittar du svar på vanliga frågor om Brand Concierge.
 
 ## Allmänt
+
+### Varför använda Brand Concierge? Vilket problem löser det?
+
+Mer forskning görs om externa AI-verktyg (till exempel ChatGPT, Gemini) i stället för om de finns på företagets webbplatser. Besökarna vill i allt högre grad&quot;komma till saken&quot;, till exempel&quot;Berätta för mig om X&quot;&quot;Kan jag göra Y?&quot; Brand Concierge hjälper er att hålla konversationen på er webbplats: när besökare landar på era sidor (även från en AI-assistent) kan de fortsätta konversationen med en assistent som är utbildad i ert innehåll. Ni levererar en enhetlig varumärkesupplevelse istället för att förlora dem till generiska svar någon annanstans.
 
 ### Hur skiljer sig Brand Concierge från chattbotar?
 
@@ -54,6 +58,22 @@ Alla data följer era styrningsregler.
 ### Kan kunderna välja bort personalisering?
 
 Ja. Kunder som avanmäler sig får användbara svar utan beteendeanpassning. Du konfigurerar hantering av avanmälan så att den matchar dina sekretesspolicyer.
+
+### Finns det några konsekvenser för samtycke eller integritet?
+
+Ja. **Konversationsdata:** Om konversationen innehåller personlig eller identifierbar information, insamling, lagring och användning måste uppfylla ditt samtycke och din sekretesspolicy (till exempel GDPR, CCPA). **Analys:** När Concierge skickar händelser till Experience Platform eller analyser kan dessa händelser omfattas av ditt befintliga samtycke och din befintliga styrning (till exempel medgivandesträngar, dataanvändningsetiketter). Vi rekommenderar att du behandlar Concierge som andra digitala upplevelser från första part: se till att webbplatsens medgivandebanderoll och inställningar täcker konversations- och chattdata och analyser, och anpassa händelsedata till din samtyckesstrategi. Granska lagar och regler innan du publicerar.
+
+## Profiler och personalisering
+
+### Använder Concierge kundprofiler (till exempel Real-Time CDP) för att anpassa svaren? Vad händer om besökaren är på väg genom en resa?
+
+I det aktuella omfånget fokuserar Concierge på anonyma besökare: det är svar från konversationen och din kunskapsbas (webbplats och katalog), inte från en aktiv sökning efter identitet eller resestatus i Real-Time CDP. Färdkartor kan bland annat användas för näring av leads, överlämning till försäljning och återmarknadsföring, vilket kommer att ge mer uppmärksamhet åt kända profiler och resekontext. Anpassa svaren efter&quot;har den här besökaren en profil?&quot; eller &quot;var befinner de sig på en resa?&quot; är en framtida förbättring. För närvarande är upplevelsen densamma för anonyma besökare.
+
+## Utrullning och tidslinje
+
+### Hur lång tid tar det att leva?
+
+Med parallellt arbete och aktivt samarbete kan många implementeringar bli verklighet på cirka 6-9 veckor. Mellanlagring kan börja snabbt när dina indata (URL:er, katalog, varumärkesriktlinjer) är klara. Efter avtal- och produktionskonfigurationen går du igenom kvalitetsjustering och en kontrollerad utrullning (till exempel 5 % och sedan skalas till 100 % på ungefär en vecka).
 
 ## Konfiguration och kontroll
 
@@ -109,6 +129,12 @@ Adobe konsulter hanterar snabbkonstruktion i bakgrunden:
 
 På så sätt kan du vara säker på att ditt varumärke använder AI-promptmönster enligt god praxis, samtidigt som du behåller dina specifika varumärkeskrav.
 
+## Märkesuttryck och -ton
+
+### Om jag ställer in &quot;lekfull och entusiastisk&quot; i varumärkesuttrycket, kommer AI att göra det överdrivet?
+
+Det kan det. Vissa kunder har rapporterat att AI tenderar att överdriva entusiasmen när det är inställt på&quot;lekfull och entusiastisk&quot;, till exempel dubbla utropstecken eller starka superlativ. För reglerade eller medicinska målgrupper (till exempel farma, näring i tidig tillvaro) rekommenderar vi att ni dämpar entusiasm och lekhet samtidigt som tonen förblir konversativ och vardaglig. Använd måttliga inställningar och justera baserat på feedback. För reglerade branscher väljer du&quot;konversationsläge&quot; istället för&quot;entusiastisk&quot;.
+
 ## Prestanda och analys
 
 ### Hur mäter jag framgång?
@@ -117,7 +143,7 @@ Du kan mäta framgång med Brand Concierge Dashboard. Använd kontrollpanelen f�
 
 | Mått | Vad det spårar |
 |--------|----------------|
-| **Engagemang** | Konversationsvolym, sessionslängd |
+| **Förlovning** | Konversationsvolym, sessionslängd |
 | **Nöjd** | Känslighetspoäng, feedback-betyg |
 | **Konvertering** | Inköpsbelopp för assisterade jämfört med icke-assisterade |
 | **Ämnen** | De vanligaste frågorna |
